@@ -1,13 +1,13 @@
-##Yılan Oyunu
+## Yılan Oyunu
 Bu proje, C# programlama dilinde geliştirilen basit bir yılan oyunudur. Oyun, klasik yılan oyunu mekaniğini takip eder ve kullanıcının yılanı yönlendirmesini ve yemleri yemesini sağlar.
 
-##Özellikler
+## Özellikler
 Yılanın kullanıcı tarafından yönlendirilmesi (yukarı, aşağı, sola, sağa)
 Yemlerin rastgele konumlarda yerleştirilmesi
 Yılanın yemleri yemesi ve uzunluğunun artması
 Yılanın kendine veya oyuna çarpması durumunda oyunun sona ermesi
 Puanın kaydedilmesi ve en yüksek puanın görüntülenmesi
-##Gereksinimler
+## Gereksinimler
 Visual Studio 2019 veya daha yeni bir sürümü
 .NET Framework 4.5 veya daha yeni bir sürümü
 Kurulum
