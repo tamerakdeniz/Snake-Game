@@ -12,5 +12,5 @@ Visual Studio 2019 veya daha yeni bir sürümü
 .NET Framework 4.5 veya daha yeni bir sürümü
 ## Kurulum
 Bu GitHub deposunu yerel makinenize klonlayın veya ZIP olarak indirin.
-Visual Studio'yu açın ve Yılan-BP-2021512001-MTA.sln dosyasını açın.
+Visual Studio'yu açın ve sln dosyasını açın.
 Projeyi derleyin ve çalıştırın.
