@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Yılan-BP-2021512001-MTA/1.0.0": {
+        "runtime": {
+          "Yılan-BP-2021512001-MTA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yılan-BP-2021512001-MTA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
