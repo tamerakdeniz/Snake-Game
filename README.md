@@ -10,7 +10,7 @@ Puanın kaydedilmesi ve en yüksek puanın görüntülenmesi
 ## Gereksinimler
 Visual Studio 2019 veya daha yeni bir sürümü
 .NET Framework 4.5 veya daha yeni bir sürümü
-Kurulum
+## Kurulum
 Bu GitHub deposunu yerel makinenize klonlayın veya ZIP olarak indirin.
 Visual Studio'yu açın ve ProjeAdi.sln dosyasını açın.
 Projeyi derleyin ve çalıştırın.
